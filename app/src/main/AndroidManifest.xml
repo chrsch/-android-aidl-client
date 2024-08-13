@@ -6,6 +6,9 @@
         <intent>
             <action android:name="IAIDLColorService" />
         </intent>
+        <intent>
+            <action android:name="IWeatherService" />
+        </intent>
     </queries>
 
     <application
